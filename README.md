@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> Subproject commit a21d57978f414e55b335f7c58adb1a7b65a5dd16
+> يا نور روحي في ليالي السهر
+> خذني إليك مثل موج البحر
+> قلبي ينادي في سكون الزمان
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
