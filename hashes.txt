@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Keefak Badoonak – How am I without you. (Poetic/Deep)
+
+This log tracks the cryptographic history and versioning for the song **Keefak Badoonak – How am I without you. (Poetic/Deep)** (keefak-badoonak-how-am-i-without-you-poeticdeep).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T09:59:39.033302 | `v1` | `dc1825cd538c6cac73df4601ed9ef490e6937702988a26cbef87d7987ec2eea2` | `0b4c9ad5a3311ffe2b788eef0d91d8c7107c3801a5126043ae598531a61d9569` | `2026-05-09_keefak-badoonak-how-am-i-without-you-poeticdeep-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
